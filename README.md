@@ -263,7 +263,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <h2 align="center">🏅 Certifications</h2>
 
-> *(Update this section as you earn new certifications.)*
+> 🚧 This section will be updated as I earn new certifications.
 
 - 📜 Dicoding - *(Coming Soon)*
 - 📜 Google Career Certificates - *(Coming Soon)*
@@ -294,7 +294,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </a>
 
 <!-- Ganti username jika ingin menampilkan Instagram -->
-<a href="https://instagram.com/your-instagram">
+<a href="https://instagram.com/3nos_02?igsh=MXg2bDJtcnkxYXZoOQ==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
