@@ -1,29 +1,24 @@
-# Halo 👋, Saya Enos Manullang
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👋 Halo, Saya Enos Manullang
 
 🎓 Mahasiswa Informatika
+💻 Web Developer
+🤖 AI Enthusiast
+🌱 Sedang belajar Machine Learning
 
-## Tentang Saya
+⚡ Tech Stack
+HTML • CSS • PHP • Python • Java • MySQL
 
-- 🌱 Sedang belajar Artificial Intelligence
-- 💻 Web Development
-- 📱 PHP & MySQL
-- 🤖 Machine Learning
+📊 GitHub Stats
+🔥 Streak
+🏆 Trophy
+📈 Contribution Graph
 
-## Tech Stack
+🚀 Featured Projects
+⭐ Smart Event Campus
+⭐ Malaria Classification
+⭐ IoT Monitoring
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Python
-- MySQL
-
-## Project
-
-- Smart Event Campus
-- Klasifikasi Malaria
-- Sistem IoT Monitoring
-
-## Kontak
-
-📧 enosmanullang45@gmail.com
+📫 Contact
+enosmanullang45@gmail.com
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
