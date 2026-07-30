@@ -82,64 +82,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ---
 
-<h2 align="center">⚡ Skills</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🌐 Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Responsive Design
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend
-
-- PHP
-- Python
-- Java
-- MySQL
-- REST API (Learning)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🤖 AI & Data
-
-- Machine Learning
-- Data Preprocessing
-- Image Classification
-- TensorFlow (Learning)
-- Google Colab
-
-</td>
-
-<td>
-
-### 🛠 Tools
-
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- Figma
-
-</td>
-</tr>
-</table>
-
----
-
 <h2 align="center">📈 Currently Learning</h2>
 
 <p align="center">
@@ -170,7 +112,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Aethelgard-has&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+       src="https://github-readme-stats.vercel.app/api?username=Aethelgard-has&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aethelgard-has&layout=compact&theme=tokyonight&hide_border=true" />
@@ -183,8 +125,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img
-       src="https://streak-stats.demolab.com?user=Aethelgard-has&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aethelgard-has&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
