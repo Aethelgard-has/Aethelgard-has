@@ -21,47 +21,17 @@ Informatics Student • Web Developer • AI Enthusiast
 ---
 
 # 👨‍💻 About Me
-```python
-class EnosManullang:
+<h2 align="center">👨‍💻 About Me</h2>
 
-    def __init__(self):
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
 
-        self.name = "Enos Manullang"
-
-        self.role = "Informatics Student"
-
-        self.location = "Medan, Indonesia"
-
-        self.interests = [
-
-            "Web Development",
-
-            "Artificial Intelligence",
-
-            "Machine Learning",
-
-            "Cloud Computing",
-
-            "Internet of Things"
-
-        ]
-
-        self.currently_learning = [
-
-            "Laravel",
-
-            "Deep Learning",
-
-            "Python",
-
-            "AI"
-
-        ]
-
-    def motto(self):
-
-        return "Learn • Build • Share"
-```
+<p align="center">
+Hi 👋 I'm <b>Enos Manullang</b>, an Informatics Student passionate about
+Web Development, Artificial Intelligence, Machine Learning,
+Cloud Computing, and Internet of Things.
+</p>
 ---
 
 # 🚀 Current Focus
