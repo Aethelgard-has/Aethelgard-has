@@ -290,7 +290,7 @@ Let's learn, build, and grow together! 🚀
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Aethelgard-has/Aethelgard-has/output/github-contribution-grid-snake.svg">
 
-    <img alt="github contribution snake"
+    <img alt="Github contribution snake"
       src="https://raw.githubusercontent.com/Aethelgard-has/Aethelgard-has/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
