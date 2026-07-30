@@ -1,16 +1,29 @@
-## Hi there 👋
+# Halo 👋, Saya Enos Manullang
 
-<!--
-**Aethelgard-has/Aethelgard-has** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Informatika
 
-Here are some ideas to get you started:
+## Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Sedang belajar Artificial Intelligence
+- 💻 Web Development
+- 📱 PHP & MySQL
+- 🤖 Machine Learning
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+- MySQL
+
+## Project
+
+- Smart Event Campus
+- Klasifikasi Malaria
+- Sistem IoT Monitoring
+
+## Kontak
+
+📧 email@email.com
