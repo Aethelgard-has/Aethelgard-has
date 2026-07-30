@@ -26,4 +26,4 @@
 
 ## Kontak
 
-📧 email@email.com
+📧 enosmanullang45@gmail.com
